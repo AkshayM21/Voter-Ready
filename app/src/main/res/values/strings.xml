@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Voter Ready</string>
+    <string name="action_settings">Change Location</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_back">Back</string>
+    <string name="action_arrow">Next</string>
+    <string-array name="offices_array">
+            <item>None</item>
+            <item>Available</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
